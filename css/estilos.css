@@ -1,4 +1,33 @@
-﻿body{
-	background-color: yellow
+﻿* {
+  box-sizing: border-box;
 }
-	
+.menu {
+  width: 25%;
+  float: left;
+}
+.main {
+  width: 75%;
+  float: left;
+}
+body{
+	background-color: #FFE6B3;
+}
+img{
+	margin: 10px;
+	width:200px; 
+	height:200px;
+	float:right
+}
+section {
+	height: 1000px;
+	border: 1px;
+	border-style: solid;
+	font-size: 16px;
+	background-color: green;
+	padding: 5px;
+	margin: 5px 30px 5px 5px ;
+}
+. class=negrita {
+	font-weight: bold;
+}
+
