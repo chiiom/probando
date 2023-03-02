@@ -42,7 +42,7 @@ body{
 
 h1{
 	color: #0D4D00;
-	font-size: 60px;
+	font-size: 65px;
 	text-align: center;
 	font-variant: small-caps;
 	text-decoration: underline solid #0D4D00;
@@ -94,7 +94,7 @@ img{
 	height:100%;
 	border: 1px;
 	border-style: solid;
-	background-color: #95F5E5;
+	background-color: #4FDB9A;
 	margin: 5px;
 	text-align: center;
 }
