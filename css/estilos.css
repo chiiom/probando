@@ -20,7 +20,7 @@
 
 .boton a {
   display: block;
-  color: black;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -28,6 +28,7 @@
 
 .boton a:hover {
   background-color: #FFF6E6;
+  color: black;
  }
  
 
@@ -36,7 +37,7 @@ html {
 }
 
 body{
-	background-color: #EBF7F3;;
+	background-color: #EBFFDE;;
 }
 
 h1{
@@ -93,7 +94,7 @@ img{
 	height:100%;
 	border: 1px;
 	border-style: solid;
-	background-color: #B3CCFF;
+	background-color: #95F5E5;
 	margin: 5px;
 	text-align: center;
 }
